@@ -55,5 +55,5 @@ We could see the blockchain blocks
 node execute-contrack
 ```
 
-We could see the blockchain constracts
+We could see the blockchain transactions
 ![alt text](images/ganache_transactions.png "Blockchain transactions")
