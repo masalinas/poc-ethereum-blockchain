@@ -49,7 +49,7 @@ node deploy-contract.js
 We could see the blockchain blocks
 ![alt text](images/ganache_blocks.png "Blockchain blocks")
 
-# Excute the Smart Contract
+# Execute the Smart Contract
 
 ```javascript
 node execute-contrack
