@@ -2,25 +2,25 @@
 A simple PoC Ethereum smart contract
 
 # Dependencies
-We need install all of these dependencies to develope and deploy an smart contract in a Ethereum local blockchain
+We need install all of these dependencies to develope and deploy a smart contract in a Ethereum local blockchain
 
-- Metamask chrome extension: Ethereum chrome wallet manager
+- **Metamask chrome extension**: Ethereum chrome wallet manager
   Install Google Extension Metamask from Chrome externsions
 
-- Ganache: Ethereum local Blockchain
+- **Ganache**: Ethereum local Blockchain
     Download from [trufflesuite](https://www.trufflesuite.com/ganache) 
 
-  Also we could use ganacle-cli installing:
+  Also we could use **ganacle-cli** from:
   ```javascript
   npm install ganache-cli@latest --global
   ```
 
-- Web3: deploy and manage smart contracts
+- **Web3**: deploy and manage smart contracts
   ```javascript
   npm install web3 --save
   ```
 
-- solcjs: Solidity compiler
+- **solcjs**: Solidity compiler
   ```javascript
   npm install ganache-cli@latest --global
   ```
