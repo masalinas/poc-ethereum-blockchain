@@ -41,7 +41,7 @@ Then from Metamask client import one of the default wallets created in the Ether
 
 ![alt text](images/Metamask.png "Metamask Client")
 
-# Deploy the Smart Contract
+# Deploy the smart contract
 ```javascript
 node deploy-contract.js
 ```
@@ -49,7 +49,7 @@ node deploy-contract.js
 We could see the blockchain blocks
 ![alt text](images/ganache_blocks.png "Blockchain blocks")
 
-# Execute the Smart Contract
+# Execute the smart contract
 
 ```javascript
 node execute-contrack
