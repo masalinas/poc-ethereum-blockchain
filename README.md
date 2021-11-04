@@ -33,7 +33,7 @@ We need install all of these dependencies to develope and deploy a smart contrac
 This command generate the smart contract binary NotarizedDocument.bin and the interface NotarizedDocument.abi for the contract
 
 # Configurations
-We must create a workspace in ganache called Ganache, by default it runs on 7545 port. This workspace create 10 accounts with 100 ETH everyone to deploy smart contracts
+We must create a workspace in ganache called Ganache, by default it runs on 7545 port. This workspace create 10 accounts with 100 ETH eachone to deploy smart contracts and execute any transaction
 
 ![alt text](images/ganache_accounts.png "Ganache Accounts")
 
