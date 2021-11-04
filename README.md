@@ -15,16 +15,16 @@ We need install all of these dependencies to develope and deploy a smart contrac
   npm install ganache-cli@latest --global
   ```
 
-- **Web3**: deploy and manage smart contracts
-  ```javascript
-  npm install web3 --save
-  ```
-
 - **solcjs**: Solidity compiler
   ```javascript
   npm install ganache-cli@latest --global
   ```
 
+- **Web3**: deploy and manage smart contracts
+  ```javascript
+  npm install web3 --save
+  ```
+  
 # Ethereum smart contract compiler
   ```javascript
   npm install solc --global
