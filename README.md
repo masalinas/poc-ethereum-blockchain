@@ -40,7 +40,7 @@ Then from Metamask client import one of the default wallets created in the Ether
 ![alt text](images/Metamask.png "Metamask Client")
 
 # Compile smart contract
-This command generate the smart contract binary NotarizedDocument.bin and the interface NotarizedDocument.abi for the contract
+This command generate the smart contract binary NotarizedDocument.bin and the interface NotarizedDocument.abi for the contract NotarizedDocument.sol
 
 ```javascript
 solcjs --bin --abi NotarizedDocument.sol
