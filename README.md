@@ -5,7 +5,7 @@ A simple PoC Ethereum smart contract
 We need install all of these dependencies to develope and deploy a smart contract in a Ethereum local blockchain
 
 - **Metamask chrome extension**: Ethereum chrome wallet manager
-  Install Google Extension Metamask from Chrome externsions
+  Install Google Extension Metamask from Chrome extensions
 
 - **Ganache**: Ethereum local Blockchain
     Download from [trufflesuite](https://www.trufflesuite.com/ganache) 
