@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# solidity binaries and api contracts
+*.abi
+*.bin
